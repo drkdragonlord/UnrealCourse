@@ -1,0 +1,10 @@
+########################
+# Unreal Derived Files #
+########################
+
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent
